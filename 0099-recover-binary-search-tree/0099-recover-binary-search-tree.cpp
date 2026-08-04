@@ -10,53 +10,28 @@
  * };
  */
 class Solution {
-public: 
-   TreeNode* search(TreeNode* root, int key) {
-    if (root == NULL) return NULL;
-    if (root->val == key) return root;
-    TreeNode* left = search(root->left, key);
-    if (left != NULL) return left;
-    return search(root->right, key);
-}
-    void check(TreeNode * root , vector<int>&ans){
-        if(root==NULL)return ;
-        // if(root->val>maxi){
-        //     // pre->val=root->val;
-        //     // root->val=maxi;
-        //     swap(pre->val,root->val);
-        //     return ;
-        // }
-        //   if(root->val<mini){
-        //     // pre->val=root->val;
-        //     // root->val=mini;
-        //     swap(pre->val,root->val);
-        //     return ;
-        // }
-        check(root->left,ans);
-        ans.push_back(root->val);
-        check(root->right,ans);
+public:
+    vector<int> in;
+    int idx = 0;
+    void inorder(TreeNode* node){
+        if(!node) return;
+        inorder(node->left);
+        in.push_back(node->val);
+        inorder(node->right);
+    }
+    void inorder1(TreeNode* node){
+        if(!node) return;
+        inorder1(node->left);
+        if(node->val != in[idx]){
+            node->val = in[idx];
+        }
+        idx++;
+        inorder1(node->right);
     }
     void recoverTree(TreeNode* root) {
-        vector<int> ans;
-    check(root, ans);
-
-    vector<int> fuck = ans;
-    sort(fuck.begin(), fuck.end());
-
-    int x = -1, y = -1;
-
-    for (int i = 0; i < ans.size(); i++) {
-        if (ans[i] != fuck[i]) {
-            if (x == -1)
-                x = ans[i];
-            else
-                y = ans[i];
-        }
-    }
-
-    TreeNode* helpi = search(root, x);
-    TreeNode* helpj = search(root, y);
-
-    swap(helpi->val, helpj->val);
+        if(!root) return;
+        inorder(root);
+        sort(in.begin(), in.end());
+        inorder1(root);
     }
 };
