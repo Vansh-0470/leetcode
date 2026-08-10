@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Vansh-0470/leetcode/tree/master/0135-candy) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Vansh-0470/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0630-course-schedule-iii](https://github.com/Vansh-0470/leetcode/tree/master/0630-course-schedule-iii) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/Vansh-0470/leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0881-boats-to-save-people](https://github.com/Vansh-0470/leetcode/tree/master/0881-boats-to-save-people) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Vansh-0470/leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Vansh-0470/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Vansh-0470/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0630-course-schedule-iii](https://github.com/Vansh-0470/leetcode/tree/master/0630-course-schedule-iii) |
 | [0767-reorganize-string](https://github.com/Vansh-0470/leetcode/tree/master/0767-reorganize-string) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/Vansh-0470/leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0881-boats-to-save-people](https://github.com/Vansh-0470/leetcode/tree/master/0881-boats-to-save-people) |
 ## Sorting
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Vansh-0470/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0630-course-schedule-iii](https://github.com/Vansh-0470/leetcode/tree/master/0630-course-schedule-iii) |
 | [0767-reorganize-string](https://github.com/Vansh-0470/leetcode/tree/master/0767-reorganize-string) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/Vansh-0470/leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0881-boats-to-save-people](https://github.com/Vansh-0470/leetcode/tree/master/0881-boats-to-save-people) |
 ## Timsort
 |  |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0630-course-schedule-iii](https://github.com/Vansh-0470/leetcode/tree/master/0630-course-schedule-iii) |
 | [0767-reorganize-string](https://github.com/Vansh-0470/leetcode/tree/master/0767-reorganize-string) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/Vansh-0470/leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
 ## Counting
 |  |
 | ------- |
