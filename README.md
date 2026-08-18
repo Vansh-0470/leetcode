@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vansh-0470/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Vansh-0470/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/Vansh-0470/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Vansh-0470/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vansh-0470/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0767-reorganize-string](https://github.com/Vansh-0470/leetcode/tree/master/0767-reorganize-string) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Vansh-0470/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0424-longest-repeating-character-replacement](https://github.com/Vansh-0470/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0767-reorganize-string](https://github.com/Vansh-0470/leetcode/tree/master/0767-reorganize-string) |
 ## Depth-First Search
 |  |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Vansh-0470/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Vansh-0470/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Vansh-0470/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
