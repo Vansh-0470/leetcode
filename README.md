@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Vansh-0470/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Vansh-0470/leetcode/tree/master/0049-group-anagrams) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vansh-0470/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Vansh-0470/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Vansh-0470/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Vansh-0470/leetcode/tree/master/0049-group-anagrams) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vansh-0470/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Vansh-0470/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -216,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Vansh-0470/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Vansh-0470/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Vansh-0470/leetcode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
