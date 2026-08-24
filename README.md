@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Vansh-0470/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0560-subarray-sum-equals-k](https://github.com/Vansh-0470/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0630-course-schedule-iii](https://github.com/Vansh-0470/leetcode/tree/master/0630-course-schedule-iii) |
+| [0739-daily-temperatures](https://github.com/Vansh-0470/leetcode/tree/master/0739-daily-temperatures) |
 | [0846-hand-of-straights](https://github.com/Vansh-0470/leetcode/tree/master/0846-hand-of-straights) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Vansh-0470/leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0881-boats-to-save-people](https://github.com/Vansh-0470/leetcode/tree/master/0881-boats-to-save-people) |
@@ -114,10 +115,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vansh-0470/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0173-binary-search-tree-iterator](https://github.com/Vansh-0470/leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0739-daily-temperatures](https://github.com/Vansh-0470/leetcode/tree/master/0739-daily-temperatures) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Vansh-0470/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/Vansh-0470/leetcode/tree/master/0739-daily-temperatures) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Vansh-0470/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Iterator
 |  |
