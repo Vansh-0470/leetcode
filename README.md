@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vansh-0470/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0219-contains-duplicate-ii](https://github.com/Vansh-0470/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Vansh-0470/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0502-ipo](https://github.com/Vansh-0470/leetcode/tree/master/0502-ipo) |
 | [0560-subarray-sum-equals-k](https://github.com/Vansh-0470/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Vansh-0470/leetcode/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/Vansh-0470/leetcode/tree/master/0630-course-schedule-iii) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/Vansh-0470/leetcode/tree/master/0135-candy) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Vansh-0470/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0502-ipo](https://github.com/Vansh-0470/leetcode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Vansh-0470/leetcode/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/Vansh-0470/leetcode/tree/master/0630-course-schedule-iii) |
 | [0763-partition-labels](https://github.com/Vansh-0470/leetcode/tree/master/0763-partition-labels) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Vansh-0470/leetcode/tree/master/0049-group-anagrams) |
 | [0295-find-median-from-data-stream](https://github.com/Vansh-0470/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Vansh-0470/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0502-ipo](https://github.com/Vansh-0470/leetcode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Vansh-0470/leetcode/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/Vansh-0470/leetcode/tree/master/0630-course-schedule-iii) |
 | [0767-reorganize-string](https://github.com/Vansh-0470/leetcode/tree/master/0767-reorganize-string) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Vansh-0470/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/Vansh-0470/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/Vansh-0470/leetcode/tree/master/0355-design-twitter) |
+| [0502-ipo](https://github.com/Vansh-0470/leetcode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Vansh-0470/leetcode/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/Vansh-0470/leetcode/tree/master/0630-course-schedule-iii) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Vansh-0470/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
