@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/Vansh-0470/leetcode/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/Vansh-0470/leetcode/tree/master/0853-car-fleet) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Vansh-0470/leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Vansh-0470/leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0881-boats-to-save-people](https://github.com/Vansh-0470/leetcode/tree/master/0881-boats-to-save-people) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Vansh-0470/leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-fruit-into-baskets](https://github.com/Vansh-0470/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Vansh-0470/leetcode/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/Vansh-0470/leetcode/tree/master/0846-hand-of-straights) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Vansh-0470/leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Vansh-0470/leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0881-boats-to-save-people](https://github.com/Vansh-0470/leetcode/tree/master/0881-boats-to-save-people) |
 | [1029-two-city-scheduling](https://github.com/Vansh-0470/leetcode/tree/master/1029-two-city-scheduling) |
 | [1642-furthest-building-you-can-reach](https://github.com/Vansh-0470/leetcode/tree/master/1642-furthest-building-you-can-reach) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/Vansh-0470/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0767-reorganize-string](https://github.com/Vansh-0470/leetcode/tree/master/0767-reorganize-string) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Vansh-0470/leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Vansh-0470/leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1642-furthest-building-you-can-reach](https://github.com/Vansh-0470/leetcode/tree/master/1642-furthest-building-you-can-reach) |
 | [2402-meeting-rooms-iii](https://github.com/Vansh-0470/leetcode/tree/master/2402-meeting-rooms-iii) |
 ## Counting
@@ -256,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vansh-0470/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/Vansh-0470/leetcode/tree/master/0227-basic-calculator-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Vansh-0470/leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 <!---LeetCode Topics End-->
