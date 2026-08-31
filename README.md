@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Vansh-0470/leetcode/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/Vansh-0470/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Vansh-0470/leetcode/tree/master/0049-group-anagrams) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vansh-0470/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Vansh-0470/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Vansh-0470/leetcode/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/Vansh-0470/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Vansh-0470/leetcode/tree/master/0049-group-anagrams) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vansh-0470/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Vansh-0470/leetcode/tree/master/0128-longest-consecutive-sequence) |
