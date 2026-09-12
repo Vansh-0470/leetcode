@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Vansh-0470/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Vansh-0470/leetcode/tree/master/0049-group-anagrams) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vansh-0470/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0118-pascals-triangle](https://github.com/Vansh-0470/leetcode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Vansh-0470/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/Vansh-0470/leetcode/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vansh-0470/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Vansh-0470/leetcode/tree/master/0118-pascals-triangle) |
 | [0213-house-robber-ii](https://github.com/Vansh-0470/leetcode/tree/master/0213-house-robber-ii) |
 | [0474-ones-and-zeroes](https://github.com/Vansh-0470/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Vansh-0470/leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
