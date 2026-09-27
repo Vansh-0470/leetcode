@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Vansh-0470/leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-fruit-into-baskets](https://github.com/Vansh-0470/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Vansh-0470/leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Vansh-0470/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Vansh-0470/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Vansh-0470/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1029-two-city-scheduling](https://github.com/Vansh-0470/leetcode/tree/master/1029-two-city-scheduling) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/Vansh-0470/leetcode/tree/master/0846-hand-of-straights) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Vansh-0470/leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-fruit-into-baskets](https://github.com/Vansh-0470/leetcode/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Vansh-0470/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0981-time-based-key-value-store](https://github.com/Vansh-0470/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vansh-0470/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vansh-0470/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Vansh-0470/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Vansh-0470/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vansh-0470/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Vansh-0470/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Vansh-0470/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
