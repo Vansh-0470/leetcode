@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Vansh-0470/leetcode/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/Vansh-0470/leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Vansh-0470/leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Vansh-0470/leetcode/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/Vansh-0470/leetcode/tree/master/0091-decode-ways) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Vansh-0470/leetcode/tree/master/0044-wildcard-matching) |
 | [0135-candy](https://github.com/Vansh-0470/leetcode/tree/master/0135-candy) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Vansh-0470/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/Vansh-0470/leetcode/tree/master/0502-ipo) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Vansh-0470/leetcode/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/Vansh-0470/leetcode/tree/master/0044-wildcard-matching) |
 | [0091-decode-ways](https://github.com/Vansh-0470/leetcode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Vansh-0470/leetcode/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/Vansh-0470/leetcode/tree/master/0118-pascals-triangle) |
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Vansh-0470/leetcode/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/Vansh-0470/leetcode/tree/master/0044-wildcard-matching) |
 | [0224-basic-calculator](https://github.com/Vansh-0470/leetcode/tree/master/0224-basic-calculator) |
 ## Quickselect
 |  |
