@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Vansh-0470/leetcode/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/Vansh-0470/leetcode/tree/master/0146-lru-cache) |
 | [0219-contains-duplicate-ii](https://github.com/Vansh-0470/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0264-ugly-number-ii](https://github.com/Vansh-0470/leetcode/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Vansh-0470/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Vansh-0470/leetcode/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vansh-0470/leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Vansh-0470/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vansh-0470/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0264-ugly-number-ii](https://github.com/Vansh-0470/leetcode/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/Vansh-0470/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Vansh-0470/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Vansh-0470/leetcode/tree/master/0355-design-twitter) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vansh-0470/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Vansh-0470/leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Vansh-0470/leetcode/tree/master/0227-basic-calculator-ii) |
+| [0264-ugly-number-ii](https://github.com/Vansh-0470/leetcode/tree/master/0264-ugly-number-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/Vansh-0470/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vansh-0470/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Dynamic Programming
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Vansh-0470/leetcode/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/Vansh-0470/leetcode/tree/master/0139-word-break) |
 | [0213-house-robber-ii](https://github.com/Vansh-0470/leetcode/tree/master/0213-house-robber-ii) |
+| [0264-ugly-number-ii](https://github.com/Vansh-0470/leetcode/tree/master/0264-ugly-number-ii) |
 | [0474-ones-and-zeroes](https://github.com/Vansh-0470/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0647-palindromic-substrings](https://github.com/Vansh-0470/leetcode/tree/master/0647-palindromic-substrings) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Vansh-0470/leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
