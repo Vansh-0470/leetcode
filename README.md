@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Vansh-0470/leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Vansh-0470/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0264-ugly-number-ii](https://github.com/Vansh-0470/leetcode/tree/master/0264-ugly-number-ii) |
+| [0343-integer-break](https://github.com/Vansh-0470/leetcode/tree/master/0343-integer-break) |
 | [0973-k-closest-points-to-origin](https://github.com/Vansh-0470/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1201-ugly-number-iii](https://github.com/Vansh-0470/leetcode/tree/master/1201-ugly-number-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vansh-0470/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Vansh-0470/leetcode/tree/master/0139-word-break) |
 | [0213-house-robber-ii](https://github.com/Vansh-0470/leetcode/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/Vansh-0470/leetcode/tree/master/0264-ugly-number-ii) |
+| [0343-integer-break](https://github.com/Vansh-0470/leetcode/tree/master/0343-integer-break) |
 | [0474-ones-and-zeroes](https://github.com/Vansh-0470/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0647-palindromic-substrings](https://github.com/Vansh-0470/leetcode/tree/master/0647-palindromic-substrings) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Vansh-0470/leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
