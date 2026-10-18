@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Vansh-0470/leetcode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Vansh-0470/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Vansh-0470/leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0513-find-bottom-left-tree-value](https://github.com/Vansh-0470/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Vansh-0470/leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vansh-0470/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/Vansh-0470/leetcode/tree/master/0669-trim-a-binary-search-tree) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Vansh-0470/leetcode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Vansh-0470/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Vansh-0470/leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0513-find-bottom-left-tree-value](https://github.com/Vansh-0470/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Vansh-0470/leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vansh-0470/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/Vansh-0470/leetcode/tree/master/0669-trim-a-binary-search-tree) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Vansh-0470/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/Vansh-0470/leetcode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Vansh-0470/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0513-find-bottom-left-tree-value](https://github.com/Vansh-0470/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Vansh-0470/leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vansh-0470/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/Vansh-0470/leetcode/tree/master/0669-trim-a-binary-search-tree) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Vansh-0470/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/Vansh-0470/leetcode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Vansh-0470/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0513-find-bottom-left-tree-value](https://github.com/Vansh-0470/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vansh-0470/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/Vansh-0470/leetcode/tree/master/0695-max-area-of-island) |
 ## Design
