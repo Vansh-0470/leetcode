@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Vansh-0470/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Vansh-0470/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Vansh-0470/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Vansh-0470/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Vansh-0470/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0406-queue-reconstruction-by-height](https://github.com/Vansh-0470/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Vansh-0470/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/Vansh-0470/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Vansh-0470/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/Vansh-0470/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Vansh-0470/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0450-delete-node-in-a-bst](https://github.com/Vansh-0470/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Vansh-0470/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Vansh-0470/leetcode/tree/master/0538-convert-bst-to-greater-tree) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Vansh-0470/leetcode/tree/master/0139-word-break) |
 | [0213-house-robber-ii](https://github.com/Vansh-0470/leetcode/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/Vansh-0470/leetcode/tree/master/0264-ugly-number-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Vansh-0470/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0343-integer-break](https://github.com/Vansh-0470/leetcode/tree/master/0343-integer-break) |
 | [0474-ones-and-zeroes](https://github.com/Vansh-0470/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0647-palindromic-substrings](https://github.com/Vansh-0470/leetcode/tree/master/0647-palindromic-substrings) |
@@ -515,4 +518,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Vansh-0470/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Vansh-0470/leetcode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
