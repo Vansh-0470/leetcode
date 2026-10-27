@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Vansh-0470/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/Vansh-0470/leetcode/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/Vansh-0470/leetcode/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Vansh-0470/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Vansh-0470/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Vansh-0470/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Vansh-0470/leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Vansh-0470/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0264-ugly-number-ii](https://github.com/Vansh-0470/leetcode/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/Vansh-0470/leetcode/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/Vansh-0470/leetcode/tree/master/0343-integer-break) |
 | [0973-k-closest-points-to-origin](https://github.com/Vansh-0470/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1201-ugly-number-iii](https://github.com/Vansh-0470/leetcode/tree/master/1201-ugly-number-iii) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Vansh-0470/leetcode/tree/master/0139-word-break) |
 | [0213-house-robber-ii](https://github.com/Vansh-0470/leetcode/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/Vansh-0470/leetcode/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/Vansh-0470/leetcode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Vansh-0470/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0343-integer-break](https://github.com/Vansh-0470/leetcode/tree/master/0343-integer-break) |
 | [0474-ones-and-zeroes](https://github.com/Vansh-0470/leetcode/tree/master/0474-ones-and-zeroes) |
@@ -449,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Vansh-0470/leetcode/tree/master/0279-perfect-squares) |
 | [0474-ones-and-zeroes](https://github.com/Vansh-0470/leetcode/tree/master/0474-ones-and-zeroes) |
 ## 0-1 Knapsack
 |  |
@@ -526,4 +530,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Vansh-0470/leetcode/tree/master/0300-longest-increasing-subsequence) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Vansh-0470/leetcode/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
