@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Vansh-0470/leetcode/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/Vansh-0470/leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Vansh-0470/leetcode/tree/master/0739-daily-temperatures) |
+| [0740-delete-and-earn](https://github.com/Vansh-0470/leetcode/tree/master/0740-delete-and-earn) |
 | [0846-hand-of-straights](https://github.com/Vansh-0470/leetcode/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/Vansh-0470/leetcode/tree/master/0853-car-fleet) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Vansh-0470/leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Vansh-0470/leetcode/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vansh-0470/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/Vansh-0470/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0740-delete-and-earn](https://github.com/Vansh-0470/leetcode/tree/master/0740-delete-and-earn) |
 | [0763-partition-labels](https://github.com/Vansh-0470/leetcode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/Vansh-0470/leetcode/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/Vansh-0470/leetcode/tree/master/0846-hand-of-straights) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Vansh-0470/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0647-palindromic-substrings](https://github.com/Vansh-0470/leetcode/tree/master/0647-palindromic-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Vansh-0470/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0740-delete-and-earn](https://github.com/Vansh-0470/leetcode/tree/master/0740-delete-and-earn) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Vansh-0470/leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/Vansh-0470/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/Vansh-0470/leetcode/tree/master/0931-minimum-falling-path-sum) |
