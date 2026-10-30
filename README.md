@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Vansh-0470/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Vansh-0470/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Vansh-0470/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1027-longest-arithmetic-subsequence](https://github.com/Vansh-0470/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1029-two-city-scheduling](https://github.com/Vansh-0470/leetcode/tree/master/1029-two-city-scheduling) |
 | [1054-distant-barcodes](https://github.com/Vansh-0470/leetcode/tree/master/1054-distant-barcodes) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vansh-0470/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Vansh-0470/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Vansh-0470/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0981-time-based-key-value-store](https://github.com/Vansh-0470/leetcode/tree/master/0981-time-based-key-value-store) |
+| [1027-longest-arithmetic-subsequence](https://github.com/Vansh-0470/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1054-distant-barcodes](https://github.com/Vansh-0470/leetcode/tree/master/1054-distant-barcodes) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vansh-0470/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vansh-0470/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/Vansh-0470/leetcode/tree/master/0938-range-sum-of-bst) |
 | [0981-time-based-key-value-store](https://github.com/Vansh-0470/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Vansh-0470/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1027-longest-arithmetic-subsequence](https://github.com/Vansh-0470/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Vansh-0470/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1201-ugly-number-iii](https://github.com/Vansh-0470/leetcode/tree/master/1201-ugly-number-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Vansh-0470/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -431,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-minimum-number-of-refueling-stops](https://github.com/Vansh-0470/leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/Vansh-0470/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/Vansh-0470/leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [1027-longest-arithmetic-subsequence](https://github.com/Vansh-0470/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Vansh-0470/leetcode/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 ## Doubly-Linked List
 |  |
