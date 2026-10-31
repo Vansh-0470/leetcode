@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/Vansh-0470/leetcode/tree/master/0630-course-schedule-iii) |
 | [0692-top-k-frequent-words](https://github.com/Vansh-0470/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/Vansh-0470/leetcode/tree/master/0695-max-area-of-island) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Vansh-0470/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0724-find-pivot-index](https://github.com/Vansh-0470/leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Vansh-0470/leetcode/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/Vansh-0470/leetcode/tree/master/0740-delete-and-earn) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vansh-0470/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/Vansh-0470/leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Vansh-0470/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Vansh-0470/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0938-range-sum-of-bst](https://github.com/Vansh-0470/leetcode/tree/master/0938-range-sum-of-bst) |
 | [0981-time-based-key-value-store](https://github.com/Vansh-0470/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Vansh-0470/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Vansh-0470/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vansh-0470/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Vansh-0470/leetcode/tree/master/0567-permutation-in-string) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Vansh-0470/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0904-fruit-into-baskets](https://github.com/Vansh-0470/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vansh-0470/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vansh-0470/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -430,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Vansh-0470/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0647-palindromic-substrings](https://github.com/Vansh-0470/leetcode/tree/master/0647-palindromic-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Vansh-0470/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Vansh-0470/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0740-delete-and-earn](https://github.com/Vansh-0470/leetcode/tree/master/0740-delete-and-earn) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Vansh-0470/leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/Vansh-0470/leetcode/tree/master/0907-sum-of-subarray-minimums) |
@@ -543,4 +547,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Vansh-0470/leetcode/tree/master/0279-perfect-squares) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Vansh-0470/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Vansh-0470/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
