@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Vansh-0470/leetcode/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/Vansh-0470/leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Vansh-0470/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Vansh-0470/leetcode/tree/master/0049-group-anagrams) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Vansh-0470/leetcode/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/Vansh-0470/leetcode/tree/master/0012-integer-to-roman) |
 | [0044-wildcard-matching](https://github.com/Vansh-0470/leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Vansh-0470/leetcode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Vansh-0470/leetcode/tree/master/0072-edit-distance) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Vansh-0470/leetcode/tree/master/0012-integer-to-roman) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vansh-0470/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Vansh-0470/leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Vansh-0470/leetcode/tree/master/0227-basic-calculator-ii) |
