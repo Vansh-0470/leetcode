@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/Vansh-0470/leetcode/tree/master/0377-combination-sum-iv) |
 | [0406-queue-reconstruction-by-height](https://github.com/Vansh-0470/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Vansh-0470/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Vansh-0470/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0474-ones-and-zeroes](https://github.com/Vansh-0470/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0502-ipo](https://github.com/Vansh-0470/leetcode/tree/master/0502-ipo) |
 | [0560-subarray-sum-equals-k](https://github.com/Vansh-0470/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Vansh-0470/leetcode/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Vansh-0470/leetcode/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/Vansh-0470/leetcode/tree/master/0343-integer-break) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Vansh-0470/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Vansh-0470/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1201-ugly-number-iii](https://github.com/Vansh-0470/leetcode/tree/master/1201-ugly-number-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vansh-0470/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
