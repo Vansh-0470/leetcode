@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Vansh-0470/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1642-furthest-building-you-can-reach](https://github.com/Vansh-0470/leetcode/tree/master/1642-furthest-building-you-can-reach) |
 | [1710-maximum-units-on-a-truck](https://github.com/Vansh-0470/leetcode/tree/master/1710-maximum-units-on-a-truck) |
+| [1718-construct-the-lexicographically-largest-valid-sequence](https://github.com/Vansh-0470/leetcode/tree/master/1718-construct-the-lexicographically-largest-valid-sequence) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Vansh-0470/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Vansh-0470/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Vansh-0470/leetcode/tree/master/2104-sum-of-subarray-ranges) |
@@ -572,4 +573,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Vansh-0470/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Backtracking
+|  |
+| ------- |
+| [1718-construct-the-lexicographically-largest-valid-sequence](https://github.com/Vansh-0470/leetcode/tree/master/1718-construct-the-lexicographically-largest-valid-sequence) |
 <!---LeetCode Topics End-->
