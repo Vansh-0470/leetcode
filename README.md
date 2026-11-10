@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Vansh-0470/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Vansh-0470/leetcode/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/Vansh-0470/leetcode/tree/master/0630-course-schedule-iii) |
+| [0658-find-k-closest-elements](https://github.com/Vansh-0470/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Vansh-0470/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/Vansh-0470/leetcode/tree/master/0695-max-area-of-island) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Vansh-0470/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Vansh-0470/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Vansh-0470/leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vansh-0470/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0658-find-k-closest-elements](https://github.com/Vansh-0470/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0669-trim-a-binary-search-tree](https://github.com/Vansh-0470/leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Vansh-0470/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Vansh-0470/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Vansh-0470/leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Vansh-0470/leetcode/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vansh-0470/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0658-find-k-closest-elements](https://github.com/Vansh-0470/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0763-partition-labels](https://github.com/Vansh-0470/leetcode/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/Vansh-0470/leetcode/tree/master/0881-boats-to-save-people) |
 | [1089-duplicate-zeros](https://github.com/Vansh-0470/leetcode/tree/master/1089-duplicate-zeros) |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/Vansh-0470/leetcode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Vansh-0470/leetcode/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/Vansh-0470/leetcode/tree/master/0630-course-schedule-iii) |
+| [0658-find-k-closest-elements](https://github.com/Vansh-0470/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Vansh-0470/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Vansh-0470/leetcode/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/Vansh-0470/leetcode/tree/master/0846-hand-of-straights) |
@@ -335,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/Vansh-0470/leetcode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Vansh-0470/leetcode/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/Vansh-0470/leetcode/tree/master/0630-course-schedule-iii) |
+| [0658-find-k-closest-elements](https://github.com/Vansh-0470/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Vansh-0470/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Vansh-0470/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0767-reorganize-string](https://github.com/Vansh-0470/leetcode/tree/master/0767-reorganize-string) |
@@ -367,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Vansh-0470/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vansh-0470/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Vansh-0470/leetcode/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/Vansh-0470/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Vansh-0470/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0904-fruit-into-baskets](https://github.com/Vansh-0470/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vansh-0470/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
