@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/Vansh-0470/leetcode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Vansh-0470/leetcode/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/Vansh-0470/leetcode/tree/master/0139-word-break) |
+| [0171-excel-sheet-column-number](https://github.com/Vansh-0470/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0224-basic-calculator](https://github.com/Vansh-0470/leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Vansh-0470/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Vansh-0470/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Vansh-0470/leetcode/tree/master/0012-integer-to-roman) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vansh-0470/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0171-excel-sheet-column-number](https://github.com/Vansh-0470/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0224-basic-calculator](https://github.com/Vansh-0470/leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Vansh-0470/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0264-ugly-number-ii](https://github.com/Vansh-0470/leetcode/tree/master/0264-ugly-number-ii) |
