@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Vansh-0470/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Vansh-0470/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Vansh-0470/leetcode/tree/master/2104-sum-of-subarray-ranges) |
+| [2352-equal-row-and-column-pairs](https://github.com/Vansh-0470/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2402-meeting-rooms-iii](https://github.com/Vansh-0470/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Vansh-0470/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1054-distant-barcodes](https://github.com/Vansh-0470/leetcode/tree/master/1054-distant-barcodes) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vansh-0470/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vansh-0470/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2352-equal-row-and-column-pairs](https://github.com/Vansh-0470/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2402-meeting-rooms-iii](https://github.com/Vansh-0470/leetcode/tree/master/2402-meeting-rooms-iii) |
 ## Divide and Conquer
 |  |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/Vansh-0470/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2402-meeting-rooms-iii](https://github.com/Vansh-0470/leetcode/tree/master/2402-meeting-rooms-iii) |
 ## Union-Find
 |  |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Vansh-0470/leetcode/tree/master/0036-valid-sudoku) |
 | [0695-max-area-of-island](https://github.com/Vansh-0470/leetcode/tree/master/0695-max-area-of-island) |
 | [0931-minimum-falling-path-sum](https://github.com/Vansh-0470/leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [2352-equal-row-and-column-pairs](https://github.com/Vansh-0470/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 ## Math
 |  |
 | ------- |
