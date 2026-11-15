@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/Vansh-0470/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/Vansh-0470/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Vansh-0470/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0986-interval-list-intersections](https://github.com/Vansh-0470/leetcode/tree/master/0986-interval-list-intersections) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Vansh-0470/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Vansh-0470/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Vansh-0470/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Vansh-0470/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0763-partition-labels](https://github.com/Vansh-0470/leetcode/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/Vansh-0470/leetcode/tree/master/0881-boats-to-save-people) |
+| [0986-interval-list-intersections](https://github.com/Vansh-0470/leetcode/tree/master/0986-interval-list-intersections) |
 | [1089-duplicate-zeros](https://github.com/Vansh-0470/leetcode/tree/master/1089-duplicate-zeros) |
 ## Greedy
 |  |
@@ -588,4 +590,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1718-construct-the-lexicographically-largest-valid-sequence](https://github.com/Vansh-0470/leetcode/tree/master/1718-construct-the-lexicographically-largest-valid-sequence) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/Vansh-0470/leetcode/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
